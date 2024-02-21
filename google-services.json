@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967253033725",
+    "project_id": "rebudatabase",
+    "storage_bucket": "rebudatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967253033725:android:8a2f4306407a8ee8e4b494",
+        "android_client_info": {
+          "package_name": "com.rebu.rebuApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFHcvZYzYxnjz_rmEyI9vw5JatSG94y2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
